@@ -44,6 +44,7 @@ as below:
 {
     "Response": "Spam Message"
 }
+<br>
 <img src="Images/Spam_message.JPG" alt="Spam Message">
 
 ### Ham message: 
@@ -53,5 +54,6 @@ as below:
 {
     "Response": "Ham Message"
 }
+<br>
 <img src="Images/Ham_message.JPG" alt="Ham Message">
 
