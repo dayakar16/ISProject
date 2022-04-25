@@ -44,7 +44,7 @@ as below:
 {
     "Response": "Spam Message"
 }
-<img src="Images/Spam_message.jpg" alt="Spam Message">
+<img src="Images/Spam_message.JPG" alt="Spam Message">
 
 ### Ham message: 
 #### Request: 
@@ -53,5 +53,5 @@ as below:
 {
     "Response": "Ham Message"
 }
-<img src="Images/Ham_message.jpg" alt="Ham Message">
+<img src="Images/Ham_message.JPG" alt="Ham Message">
 
