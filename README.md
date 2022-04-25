@@ -36,7 +36,7 @@ as below:
 3. Run this command to start the uvicorn server in terminal:
       <b>  uvicorn api:app --reload </b>
 
-## output
+## Output
 ### Spam message: 
 #### Request: 
 {"message":"Congratulations!! you have won 1000 call on this number to get your prize"}
@@ -44,7 +44,7 @@ as below:
 {
     "Response": "Spam Message"
 }
-<img src="./images/Spam_message.jpg" alt="Spam Message">
+<img src="Images/Spam_message.jpg" alt="Spam Message">
 
 ### Ham message: 
 #### Request: 
@@ -53,5 +53,5 @@ as below:
 {
     "Response": "Ham Message"
 }
-<img src="./images/Ham_message.jpg" alt="Ham Message">
+<img src="Images/Ham_message.jpg" alt="Ham Message">
 
