@@ -32,6 +32,7 @@ as below:
      <b> import nltk </b>
      <b> nltk.download('punkt') </b>
      <b> nltk.download('stopwords') </b>
+     <b> exit() </b>
 3. Run this command to start the uvicorn server in terminal:
       <b>  uvicorn api:app --reload </b>
 
@@ -43,7 +44,7 @@ as below:
 {
     "Response": "Spam Message"
 }
-<img src="/images/Spam_message.jpg" alt="Spam Message">
+<img src="./images/Spam_message.jpg" alt="Spam Message">
 
 ### Ham message: 
 #### Request: 
@@ -52,5 +53,5 @@ as below:
 {
     "Response": "Ham Message"
 }
-<img src="/images/Ham_message.jpg" alt="Ham Message">
+<img src="./images/Ham_message.jpg" alt="Ham Message">
 
