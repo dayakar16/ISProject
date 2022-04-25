@@ -23,18 +23,18 @@ as below:
 3. Postman should be installed to test this application . 
 
 ## Execution
-1. You need to install all things in the requirements file:
-    <b> cd to project directory </b>
-    <b> pip install -r requirements.txt </b>
-2. You need to download punkt and stopwords package from nltk: 
-      Go to terminal 
-     <b> python </b>
-     <b> import nltk </b>
-     <b> nltk.download('punkt') </b>
-     <b> nltk.download('stopwords') </b>
-     <b> exit() </b>
-3. Run this command to start the uvicorn server in terminal:
-      <b>  uvicorn api:app --reload </b>
+1. You need to install all things in the requirements file: <br>
+    <b> cd to project directory </b> <br>
+    <b> pip install -r requirements.txt </b> <br>
+2. You need to download punkt and stopwords package from nltk: <br>
+      Go to terminal <br>
+     <b> python </b> <br>
+     <b> import nltk </b> <br>
+     <b> nltk.download('punkt') </b> <br>
+     <b> nltk.download('stopwords') </b> <br>
+     <b> exit() </b> <br>
+3. Run this command to start the uvicorn server in terminal: <br>
+      <b>  uvicorn api:app --reload </b> <br>
 
 ## Output
 ### Spam message: 
