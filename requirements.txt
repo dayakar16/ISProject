@@ -1,4 +1,4 @@
 nltk
 sklearn
 fastapi
-uvicorn[standard]
+uvicorn
