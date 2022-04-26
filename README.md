@@ -37,6 +37,25 @@ as below:
       <b>  uvicorn api:app --reload </b> <br>
 
 ## Output
+### Examples of messages: 
+#### Spam messages: 
+
+congratulations you won 1000 dollars call on this number to get your prize
+<br>
+You could be entitled up to $5000 in compensation from mis-sold PPI on a credit card or Loan. Please reply PPI for in for STOP to opt out. 
+<br>
+A Loan for $3000 is approved for you if you receive this sms. 1 min verification & cash in 1 hr at ww.[redacted].co.uk to opt out reply stop 
+<br>
+
+#### Ham Messages: 
+
+Did you see the match ? It was insane. 
+<br>
+I am dayakar, please call me back. 
+<br>
+Do you want to go to football match ? 
+<br>
+
 ### Spam message: 
 #### Request: 
 {"message":"Congratulations!! you have won 1000 call on this number to get your prize"}
